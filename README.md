@@ -5,7 +5,7 @@
 
 ### How to run ?
 - Install [PHP](https://www.php.net/), [Mysql](https://www.mysql.com/).
-- create Mysql [database tables](https://github.com/Dhiraj-01/TodoList-PHP/blob/master/TODO-Application/create_database.sql).
+- create Mysql table `todo`.
 - download this repository.
 - download composer
 - download node.js
